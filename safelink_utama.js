@@ -24,8 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="how-to-change-your-android-phone-so.html"} 
 if(x=="2"){xxx="how-to-upgrade-android-jelly-bean-to.html"} 
 if(x=="3"){xxx="free-download-go-sms-pro-for-andoid.html"}
-if(x=="4"){xxx="apk-auto-complete-text-messenger-bbm.html"} 
-if(x=="5"){xxx="how-to-make-android-applications-apk.html"}a_to_ve[i].href="https://safelink.panduanbs.com/2015/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="apk-auto-complete-text-messenger-bbm.html"}a_to_ve[i].href="https://safelink.panduanbs.com/2015/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
